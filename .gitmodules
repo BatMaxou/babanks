@@ -1,3 +1,6 @@
 [submodule ".icons"]
 	path = .icons
 	url = git@github.com:BatMaxou/babanks-icons.git
+[submodule ".images"]
+	path = .images
+	url = git@github.com:BatMaxou/babanks-images.git
